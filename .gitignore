@@ -1,0 +1,8 @@
+node_modules/
+
+.next
+.nx
+
+packages/components/dist
+
+packages/pokedex/public
